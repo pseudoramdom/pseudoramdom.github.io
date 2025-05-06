@@ -26,6 +26,6 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hi! I'm Ram.
+# Hi! I'm Ram
 
 I’ve spent the past decade working in big tech as a mobile and system software engineer. Recently, I’ve shifted my focus to Bitcoin – diving deep into its technology and ecosystem. My goal is to contribute to Bitcoin as an engineer, and to share what I learn along the way.
